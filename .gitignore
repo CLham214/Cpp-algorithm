@@ -75,3 +75,10 @@ Testing/
 # Operating-system files
 .DS_Store
 Thumbs.db
+
+# macOS compiler/debug artifacts
+*.dSYM/
+
+# Extensionless local executables produced by contest builds
+**/[A-Z]
+智C/0916
