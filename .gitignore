@@ -1,0 +1,13 @@
+# Compiled C/C++ binaries and objects
+*.exe
+*.out
+*.o
+*.obj
+
+# Editor-specific local settings
+.vscode/
+.idea/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
