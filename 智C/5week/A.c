@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include <stdio.h>
 
 
@@ -11,3 +12,18 @@ int main(){
     printf("%d,%d,%d,%d,%d",a,b,c,d,e);
     return 0;
 }
+=======
+#include <stdio.h>
+
+
+
+int main(){
+    int b =sizeof(int);
+    int a =sizeof(short);
+    int c =sizeof(float);
+    int d =sizeof(double);
+    int e =sizeof(char);
+    printf("%d,%d,%d,%d,%d",a,b,c,d,e);
+    return 0;
+}
+>>>>>>> 7f514012b0bdd5d83f40aa8aefd75f98009f16e0
